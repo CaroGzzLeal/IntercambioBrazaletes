@@ -27,6 +27,6 @@ Cada celda interactúa con ocho vecinos, que son las celdas adyacentes horizonta
 # Gráficas
 A continuación se pueden observar dos gráficas que modelan el comportamiento de esta actividad. En estas gráficas se están comparando los estados de Regalar y Pedir brazaletes con el paso de tiempo, cada estado en su respectiva gráfica. Lo que se observa en estas gráficas es como a medida que avanza el tiempo se van disminuyendo la cantidad de personas que están regalando/pidiendo brazaletes. Esto nos lleva a concluir que para el final de la película, la myoría de la sala va a tener 10 pulseras y va a estar disfrutando de la película.
 
-<img src=<img width="802" alt="Grafica 1" src="https://github.com/CaroGzzLeal/IntercambioBrazaletes/assets/89434246/1fe716cd-7af2-4b89-9c41-931a823debbb">
+<img width="802" alt="Grafica 1" src="https://github.com/CaroGzzLeal/IntercambioBrazaletes/assets/89434246/1fe716cd-7af2-4b89-9c41-931a823debbb">
 
-<img src=<img width="791" alt="Grafica 2" src="https://github.com/CaroGzzLeal/IntercambioBrazaletes/assets/89434246/ed9f7ff8-53c0-44b9-bb5c-35d54e210077">
+<img width="791" alt="Grafica 2" src="https://github.com/CaroGzzLeal/IntercambioBrazaletes/assets/89434246/ed9f7ff8-53c0-44b9-bb5c-35d54e210077">
