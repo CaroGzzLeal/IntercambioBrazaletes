@@ -7,3 +7,13 @@ Esta es una simulación que muestra esta actividad basada desde El Juego de la V
 <center>
 <img src="https://i.etsystatic.com/22925573/r/il/1a0dd2/4899550808/il_fullxfull.4899550808_387n.jpg" width=250 height=300 />
 </center>
+
+# Reglas
+
+El entorno en donde se realiza esta actividad, cuadrícula ortogonal bidimensional de celdas cuadradas, cada una de ellas se encuentra en alguno de los 3 posibles estados: Regalando brazaletes, pidiendo brazaletes, o disfrutando la película.
+Cada celda interactúa con ocho vecinos, que son las celdas adyacentes horizontales, verticales y diagonales. En cada paso de tiempo, las siguientes transiciones ocurren:
+
+1. Las personas(celdas) llegan a la sala de cine con entre 0 y 20 pulseras. 
+2. Las personas con menos de 10 brazaletes (0 - 9) pueden pedir a otra persona que les regale una. 
+3. Las personas con más de 10 brazaletes (11 - 20) pueden regalar brazaletes a otra persona.
+4. Las personas que tienen 10 pulseras exactamente se sientan a disfrutar la película, ya no intercambian brazaletes.  
