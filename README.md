@@ -16,4 +16,8 @@ Cada celda interactúa con ocho vecinos, que son las celdas adyacentes horizonta
 1. Las personas(celdas) llegan a la sala de cine con entre 0 y 20 pulseras. 
 2. Las personas con menos de 10 brazaletes (0 - 9) pueden pedir a otra persona que les regale una. 
 3. Las personas con más de 10 brazaletes (11 - 20) pueden regalar brazaletes a otra persona.
-4. Las personas que tienen 10 pulseras exactamente se sientan a disfrutar la película, ya no intercambian brazaletes.  
+4. Las personas que tienen 10 pulseras exactamente se sientan a disfrutar la película, ya no intercambian brazaletes.
+
+<center>
+<img src="![Animacion](https://github.com/CaroGzzLeal/IntercambioBrazaletes/assets/89434246/b41ebd2b-e2ba-41e9-b9ea-a687fc5e70eb)" width=250 height=300 />
+</center>
