@@ -19,5 +19,5 @@ Cada celda interactúa con ocho vecinos, que son las celdas adyacentes horizonta
 4. Las personas que tienen 10 pulseras exactamente se sientan a disfrutar la película, ya no intercambian brazaletes.
 
 <center>
-<img src="[Animacion](https://github.com/CaroGzzLeal/IntercambioBrazaletes/assets/89434246/b41ebd2b-e2ba-41e9-b9ea-a687fc5e70eb)" width=250 height=300 />
+<img src="https://github.com/CaroGzzLeal/IntercambioBrazaletes/assets/89434246/b41ebd2b-e2ba-41e9-b9ea-a687fc5e70eb" width=250 height=300 />
 </center>
